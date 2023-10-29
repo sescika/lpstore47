@@ -1,0 +1,32 @@
+.wrapper {
+    margin: 0px auto;
+    width: 85%;
+}
+
+.fakeHeight {
+    min-height: 85vh;
+}
+
+
+#cover {
+    background-image: url("../img/cover.jpg");
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+.imgSmall {
+    width: 150px;
+}
+
+#tabelaProizvodi tbody tr td{
+    text-align: center;
+    vertical-align: center;
+}
+
+.profile-img {
+    height: 300px;
+}
+
